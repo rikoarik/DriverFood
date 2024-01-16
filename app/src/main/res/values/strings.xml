@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Driver Food</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_dailyoffer">Penawaran Harian</string>
+    <string name="title_reservation">Reservasi</string>
+    <string name="google_maps_key">AIzaSyAcOW6L6HYHUB_lzBq7rKwMY3xSMtNSat4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="time">Waktu reservasi:</string>
+    <string name="set_price">Tetapkan harga</string>
+    <string name="point_symbol">.</string>
+    <string name="euro_symbol">Rp</string>
+    <string name="quantity">Stok yang tersedia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
